@@ -38,17 +38,6 @@ It was a personal learning experience before I started studying **.NET C#**, and
 
 ---
 
-## Installation (if you want to test locally)
-
-1. Clone the repository
-2. Run `composer install`
-3. Copy `.env.example` to `.env` and configure your database
-4. Run `php artisan key:generate`
-5. Run `php artisan migrate --seed` (if applicable)
-6. Serve: `php artisan serve`
-
----
-
 ## Note
 
 This repository is **for educational purposes** only.  

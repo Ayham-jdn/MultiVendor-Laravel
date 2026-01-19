@@ -1,2 +1,0 @@
-@extends('customer.layouts.layout')
-
